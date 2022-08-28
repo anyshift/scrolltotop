@@ -2,11 +2,11 @@
 A minimal no non-sense flarum extension which enables a scroll to top button
 
 ## Install
-`composer require anyshift/scrolltotop/scrolltotop`
+`composer require anyshift/scrolltotop`
 
 ## Update
-`composer update anyshift/scrolltotop/scrolltotop`
+`composer update anyshift/scrolltotop`
 
 ## Remove
-`composer remove anyshift/scrolltotop/scrolltotop`
+`composer remove anyshift/scrolltotop`
 
